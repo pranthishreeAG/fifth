@@ -3,3 +3,5 @@ main()
 {
 printf("hello world");
 }
+sort
+{}
